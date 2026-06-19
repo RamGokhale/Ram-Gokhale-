@@ -1,4 +1,4 @@
-cat > /mnt/user-data/outputs/README.md << 'EOF'
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Hi+there!+I'm+Ram+Gokhale+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+JavaScript;2%2B+Years+of+Experience!)](https://git.io/typing-svg)
