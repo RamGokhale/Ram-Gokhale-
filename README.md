@@ -1,10 +1,9 @@
+cat > /mnt/user-data/outputs/README.md << 'EOF'
 <div align="center">
 
-<!-- Typing animation via readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ram+Gokhale+👋;Full+Stack+Developer+🚀;React+%7C+Node.js+%7C+JavaScript;2%2B+Years+of+Experience!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Hi+there!+I'm+Ram+Gokhale+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+JavaScript;2%2B+Years+of+Experience!)](https://git.io/typing-svg)
 
-<!-- Snake animation (set up GitHub Action) -->
-![Snake animation](https://raw.githubusercontent.com/ramgokhale/ramgokhale/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/RamGokhale/Ram-Gokhale-/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -45,10 +44,11 @@
 
 <div align="center">
 
-![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamGokhale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamGokhale&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RamGokhale&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -70,9 +70,11 @@
 ![Advanced React](https://img.shields.io/badge/Advanced_React_Patterns-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud_Technologies-F97316?style=flat-square&logoColor=white)
 ![Performance](https://img.shields.io/badge/Performance_Engineering-F7DF1E?style=flat-square&logoColor=black)
+![Scalable Backend](https://img.shields.io/badge/Scalable_Backend-339933?style=flat-square&logoColor=white)
 
 ---
 
 <div align="center">
   <i>⚡ Built with passion · Open to opportunities · Let's connect!</i>
 </div>
+EOF
